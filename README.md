@@ -8,7 +8,7 @@ I have recently created a dashboard using bokeh library. These are the bokeh lib
 <br />
 <br />
 
-This is the dashboard that I have created. This is an example data set from kaggle about fish species and their characteristics
+This is the dashboard that I have created. This is an example data set from kaggle about fish species and their characteristics. I have already attached the full code in a separated file.
 <br />
 <br />
 <img width="1030" alt="Dashboard With Bokeh Library" src="https://github.com/Jeremyanthony04/Creating-Dashboard-with-Bokeh-Library/assets/102398975/55cb3830-cf65-4e0e-a9e3-1130261ffce4">
